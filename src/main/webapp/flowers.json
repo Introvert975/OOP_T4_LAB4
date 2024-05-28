@@ -1,0 +1,32 @@
+[
+    {
+        "color": "Красный",
+        "price": 300,
+        "name": "Топаз",
+        "length": 40,
+        "type": "Роза"
+    },
+    {
+        "color": "Белый",
+        "price": 320,
+        "name": "Polar star",
+        "length": 45,
+        "type": "Роза"
+    },
+    {
+        "color": "Розовый",
+        "price": 240,
+        "name": "Anima",
+        "length": 60,
+        "type": "Пион"
+    },
+    {
+        "color": "Белый",
+        "price": 299,
+        "name": "Аваланш",
+        "length": 90,
+        "type": "Пион"
+    }
+
+
+]

@@ -1,0 +1,177 @@
+24-May-2024 23:03:32.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/8.5.100
+24-May-2024 23:03:32.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Mar 19 2024 13:54:42 UTC
+24-May-2024 23:03:32.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  8.5.100.0
+24-May-2024 23:03:32.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+24-May-2024 23:03:32.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+24-May-2024 23:03:32.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+24-May-2024 23:03:32.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Kasie1\.jdks\corretto-15.0.2
+24-May-2024 23:03:32.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7
+24-May-2024 23:03:32.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Amazon.com Inc.
+24-May-2024 23:03:32.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:03:32.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\temp
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\logging.properties
+24-May-2024 23:03:32.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-May-2024 23:03:32.994 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=63503:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin
+24-May-2024 23:03:32.994 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+24-May-2024 23:03:32.994 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\Kasie1\.jdks\corretto-15.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Kasie1\gcc\bin;C:\Users\Kasie1\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Kasie1\AppData\Local\Microsoft\WindowsApps;C:\Users\Kasie1\.dotnet\tools;C:\Users\Kasie1\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Kasie1\gcc\bin;;.]
+24-May-2024 23:03:33.049 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:03:33.069 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 521 ms
+24-May-2024 23:03:33.125 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-May-2024 23:03:33.125 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting controller.Servlet engine: [Apache Tomcat/8.5.100]
+24-May-2024 23:03:33.135 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml]
+24-May-2024 23:03:41.110 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/8.5.100
+24-May-2024 23:03:41.114 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Mar 19 2024 13:54:42 UTC
+24-May-2024 23:03:41.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  8.5.100.0
+24-May-2024 23:03:41.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+24-May-2024 23:03:41.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+24-May-2024 23:03:41.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+24-May-2024 23:03:41.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Kasie1\.jdks\corretto-15.0.2
+24-May-2024 23:03:41.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7
+24-May-2024 23:03:41.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Amazon.com Inc.
+24-May-2024 23:03:41.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:03:41.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:03:41.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-May-2024 23:03:41.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-May-2024 23:03:41.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-May-2024 23:03:41.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-May-2024 23:03:41.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-May-2024 23:03:41.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:03:41.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:03:41.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\temp
+24-May-2024 23:03:41.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\logging.properties
+24-May-2024 23:03:41.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-May-2024 23:03:41.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=63510:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin
+24-May-2024 23:03:41.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+24-May-2024 23:03:41.118 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\Kasie1\.jdks\corretto-15.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Kasie1\gcc\bin;C:\Users\Kasie1\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Kasie1\AppData\Local\Microsoft\WindowsApps;C:\Users\Kasie1\.dotnet\tools;C:\Users\Kasie1\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Kasie1\gcc\bin;;.]
+24-May-2024 23:03:41.175 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:03:41.197 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 534 ms
+24-May-2024 23:03:41.241 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-May-2024 23:03:41.241 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting controller.Servlet engine: [Apache Tomcat/8.5.100]
+24-May-2024 23:03:41.250 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml]
+24-May-2024 23:03:41.625 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-May-2024 23:03:41.710 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml] has finished in [459] ms
+24-May-2024 23:03:41.712 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:03:41.760 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 562 ms
+24-May-2024 23:05:05.345 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:05:05.352 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+24-May-2024 23:05:05.375 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:05:05.385 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:06:36.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/8.5.100
+24-May-2024 23:06:36.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Mar 19 2024 13:54:42 UTC
+24-May-2024 23:06:36.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  8.5.100.0
+24-May-2024 23:06:36.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+24-May-2024 23:06:36.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+24-May-2024 23:06:36.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+24-May-2024 23:06:36.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Kasie1\.jdks\corretto-15.0.2
+24-May-2024 23:06:36.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7
+24-May-2024 23:06:36.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Amazon.com Inc.
+24-May-2024 23:06:36.135 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:06:36.135 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:06:36.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-May-2024 23:06:36.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-May-2024 23:06:36.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-May-2024 23:06:36.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-May-2024 23:06:36.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-May-2024 23:06:36.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:06:36.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:06:36.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\temp
+24-May-2024 23:06:36.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\logging.properties
+24-May-2024 23:06:36.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-May-2024 23:06:36.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=63568:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin
+24-May-2024 23:06:36.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+24-May-2024 23:06:36.138 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\Kasie1\.jdks\corretto-15.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Kasie1\gcc\bin;C:\Users\Kasie1\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Kasie1\AppData\Local\Microsoft\WindowsApps;C:\Users\Kasie1\.dotnet\tools;C:\Users\Kasie1\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Kasie1\gcc\bin;;.]
+24-May-2024 23:06:36.200 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:06:36.226 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 624 ms
+24-May-2024 23:06:36.287 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-May-2024 23:06:36.287 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting controller.Servlet engine: [Apache Tomcat/8.5.100]
+24-May-2024 23:06:36.299 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml]
+24-May-2024 23:06:36.710 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-May-2024 23:06:36.815 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml] has finished in [514] ms
+24-May-2024 23:06:36.817 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:06:36.879 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 652 ms
+24-May-2024 23:06:58.877 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:06:58.884 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+24-May-2024 23:06:58.893 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:06:58.895 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:07:44.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/8.5.100
+24-May-2024 23:07:44.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Mar 19 2024 13:54:42 UTC
+24-May-2024 23:07:44.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  8.5.100.0
+24-May-2024 23:07:44.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+24-May-2024 23:07:44.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+24-May-2024 23:07:44.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+24-May-2024 23:07:44.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Kasie1\.jdks\corretto-15.0.2
+24-May-2024 23:07:44.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7
+24-May-2024 23:07:44.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Amazon.com Inc.
+24-May-2024 23:07:44.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:07:44.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:07:44.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-May-2024 23:07:44.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-May-2024 23:07:44.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-May-2024 23:07:44.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-May-2024 23:07:44.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-May-2024 23:07:44.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:07:44.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:07:44.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\temp
+24-May-2024 23:07:44.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\logging.properties
+24-May-2024 23:07:44.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-May-2024 23:07:44.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=63583:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin
+24-May-2024 23:07:44.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+24-May-2024 23:07:44.486 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\Kasie1\.jdks\corretto-15.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Kasie1\gcc\bin;C:\Users\Kasie1\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Kasie1\AppData\Local\Microsoft\WindowsApps;C:\Users\Kasie1\.dotnet\tools;C:\Users\Kasie1\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Kasie1\gcc\bin;;.]
+24-May-2024 23:07:44.539 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:07:44.559 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 558 ms
+24-May-2024 23:07:44.602 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-May-2024 23:07:44.603 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting controller.Servlet engine: [Apache Tomcat/8.5.100]
+24-May-2024 23:07:44.613 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml]
+24-May-2024 23:07:44.966 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-May-2024 23:07:45.071 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml] has finished in [456] ms
+24-May-2024 23:07:45.073 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:07:45.139 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 579 ms
+24-May-2024 23:08:12.862 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:08:12.868 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+24-May-2024 23:08:12.878 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:08:12.881 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:11:31.584 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/8.5.100
+24-May-2024 23:11:31.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Mar 19 2024 13:54:42 UTC
+24-May-2024 23:11:31.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  8.5.100.0
+24-May-2024 23:11:31.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+24-May-2024 23:11:31.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+24-May-2024 23:11:31.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+24-May-2024 23:11:31.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Kasie1\.jdks\corretto-15.0.2
+24-May-2024 23:11:31.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7
+24-May-2024 23:11:31.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Amazon.com Inc.
+24-May-2024 23:11:31.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:11:31.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:11:31.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Kasie1\Desktop\Apache\apache-tomcat-8.5.100
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\temp
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\logging.properties
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-May-2024 23:11:31.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=63714:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin
+24-May-2024 23:11:31.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+24-May-2024 23:11:31.590 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\Kasie1\.jdks\corretto-15.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Kasie1\gcc\bin;C:\Users\Kasie1\gcc\libexec\gcc\x86_64-w64-mingw32\13.2.0;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Kasie1\AppData\Local\Microsoft\WindowsApps;C:\Users\Kasie1\.dotnet\tools;C:\Users\Kasie1\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Kasie1\gcc\bin;;.]
+24-May-2024 23:11:31.640 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:11:31.659 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 643 ms
+24-May-2024 23:11:31.725 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-May-2024 23:11:31.725 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting controller.Servlet engine: [Apache Tomcat/8.5.100]
+24-May-2024 23:11:31.740 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml]
+24-May-2024 23:11:32.165 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-May-2024 23:11:32.251 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Kasie1\IdeaProjects\OOOPSERVLETS_LAB4\conf\Catalina\localhost\OOOPSERVLETS_LAB4.xml] has finished in [510] ms
+24-May-2024 23:11:32.253 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:11:32.310 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 650 ms
+24-May-2024 23:12:30.504 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:12:30.510 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+24-May-2024 23:12:30.523 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+24-May-2024 23:12:30.535 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
